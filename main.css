@@ -1834,9 +1834,9 @@
 :root .app_de4237::after {
   bottom: 20px;
   right: 45%;
-  width: 400px;
-  height: 225px;
-  background: url("https://i.imgur.com/OBSWYht.png");
+  width: 40px;
+  height: 40px;
+  background: url("");
   background-size: 100%;
 }
 :root .layers__1c917::before {
