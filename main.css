@@ -1560,7 +1560,7 @@
 :root input,
 :root select,
 :root textarea {
-  font-family: "Nunito" !important;
+  font-family: "Klee One" !important;
 }
 :root .bg__12180 {
   background: var(--background-tertiary-alt);
