@@ -38,7 +38,7 @@
   border-radius: var(--border-radius) var(--border-radius) 0 0;
 }
 :root .threadSidebar-1o3BTy::after {
-  content: "";
+  content: "https://i.imgur.com/EU9Ak2W.png";
   position: fixed;
   bottom: 85px;
   z-index: 1;
@@ -57,7 +57,7 @@
   border-radius: 5px var(--border-radius) var(--border-radius) 5px;
 }
 :root .embedFull__8dc21:after {
-  content: "";
+  content: "https://i.imgur.com/EU9Ak2W.png";
   position: absolute;
   top: 1px;
   bottom: 1px;
