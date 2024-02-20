@@ -1910,6 +1910,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    font-family: "Klee One";
     font-size: 30px;
     color: var(--text-normal);
     border-radius: var(--border-radius);
