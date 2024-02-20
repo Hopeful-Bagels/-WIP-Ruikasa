@@ -1851,9 +1851,9 @@
 :root .layers__1c917::after {
   bottom: 15px;
   right: 100px;
-  width: 25px;
-  height: 25px;
-  background: url("") no-repeat;
+  width: 1280px;
+  height: 720px;
+  background: url("https://i.imgur.com/EU9Ak2W.png") no-repeat;
   background-size: 100%;
 }
 :root .bg__12180::after {
@@ -1898,7 +1898,7 @@
     transform: none;
   }
   .container__037ed::after {
-    content: "The Grandest Show";
+    content: "最高のショー";
     position: fixed;
     top: 220px;
     bottom: 85px;
