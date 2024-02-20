@@ -1,5 +1,5 @@
 @import url("https://nyri4.github.io/donators/donators.css");
-@import url("https://fonts.googleapis.com/css2?family=Klee+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito");
 :root .container_b181b6 {
   background: var(--background-primary);
 }
@@ -1560,7 +1560,7 @@
 :root input,
 :root select,
 :root textarea {
-  font-family: "Klee One" !important;
+  font-family: "Nunito" !important;
 }
 :root .bg__12180 {
   background: var(--background-tertiary-alt);
