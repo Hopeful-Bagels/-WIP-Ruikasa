@@ -38,7 +38,7 @@
   border-radius: var(--border-radius) var(--border-radius) 0 0;
 }
 :root .threadSidebar-1o3BTy::after {
-  content: "https://i.imgur.com/EU9Ak2W.png";
+  content: "";
   position: fixed;
   bottom: 85px;
   z-index: 1;
@@ -57,7 +57,7 @@
   border-radius: 5px var(--border-radius) var(--border-radius) 5px;
 }
 :root .embedFull__8dc21:after {
-  content: "https://i.imgur.com/EU9Ak2W.png";
+  content: "";
   position: absolute;
   top: 1px;
   bottom: 1px;
@@ -1801,7 +1801,7 @@
 }
 
 :root .app_b1f720::before, :root .app_b1f720::after, :root .app_de4237::after, :root .app_de4237::before, :root .layers__1c917::before, :root .layers__1c917::after, :root .app_b1f720::before, :root .bg__12180::after, :root .bg__12180::before {
-  content: "https://i.imgur.com/EU9Ak2W.png";
+  content: "";
   position: fixed;
   z-index: 1;
   pointer-events: none;
@@ -1811,7 +1811,7 @@
   top: 0;
   width: 250px;
   height: 250px;
-  background: url("https://i.imgur.com/EU9Ak2W.png") no-repeat;
+  background: url("") no-repeat;
   background-size: 100%;
 }
 :root .app_b1f720::after {
@@ -1820,7 +1820,7 @@
   bottom: 0;
   width: 490px;
   height: 40px;
-  background: url("https://i.imgur.com/EU9Ak2W.png") no-repeat;
+  background: url("") no-repeat;
   background-size: 100%;
 }
 :root .app_de4237::before {
@@ -1828,7 +1828,7 @@
   right: 116px;
   width: 200px;
   height: 120px;
-  background: url("https://i.imgur.com/EU9Ak2W.png") no-repeat;
+  background: url("") no-repeat;
   background-size: 100%;
 }
 :root .app_de4237::after {
@@ -1836,7 +1836,7 @@
   right: 45%;
   width: 40px;
   height: 40px;
-  background: url("https://i.imgur.com/EU9Ak2W.png");
+  background: url("");
   background-size: 100%;
 }
 :root .layers__1c917::before {
@@ -1845,7 +1845,7 @@
   right: 0;
   width: 20px;
   height: 50px;
-  background: url("https://i.imgur.com/EU9Ak2W.png") no-repeat;
+  background: url("") no-repeat;
   background-size: 100%;
 }
 :root .layers__1c917::after {
@@ -1853,7 +1853,7 @@
   right: 100px;
   width: 25px;
   height: 25px;
-  background: url("https://i.imgur.com/EU9Ak2W.png") no-repeat;
+  background: url("") no-repeat;
   background-size: 100%;
 }
 :root .bg__12180::after {
@@ -1861,7 +1861,7 @@
   right: 385px;
   width: 30px;
   height: 30px;
-  background: url("https://i.imgur.com/EU9Ak2W.png") no-repeat;
+  background: url("") no-repeat;
   background-size: 100%;
 }
 :root .bg__12180::before {
@@ -1870,7 +1870,7 @@
   right: 430px;
   width: 30px;
   height: 40px;
-  background: url("https://i.imgur.com/EU9Ak2W.png") no-repeat;
+  background: url("") no-repeat;
   background-size: 100%;
 }
 @media (max-width: 1350px) {
