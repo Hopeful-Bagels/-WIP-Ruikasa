@@ -1563,9 +1563,8 @@
   font-family: "Nunito" !important;
 }
 :root .bg__12180 {
-  background: var(--background-tertiary-alt);
-  background-size: cover;
-  background-repeat: no-repeat;
+  background: var(--background-image) center/cover no-repeat !important;
+  filter: blur(1.5px)
 }
 :root .winButton__88672 {
   background-color: var(--background-primary);
@@ -1811,7 +1810,7 @@
   top: 0;
   width: 250px;
   height: 250px;
-  background: url("") no-repeat;
+  background: url("https://i.imgur.com/EU9Ak2W.png") no-repeat;
   background-size: 100%;
 }
 :root .app_b1f720::after {
@@ -1820,7 +1819,7 @@
   bottom: 0;
   width: 490px;
   height: 40px;
-  background: url("") no-repeat;
+  background: url("https://i.imgur.com/EU9Ak2W.png") no-repeat;
   background-size: 100%;
 }
 :root .app_de4237::before {
@@ -1828,39 +1827,39 @@
   right: 116px;
   width: 200px;
   height: 120px;
-  background: url("") no-repeat;
+  background: url("https://i.imgur.com/EU9Ak2W.png") no-repeat;
   background-size: 100%;
 }
 :root .app_de4237::after {
   bottom: 20px;
   right: 45%;
-  width: 40px;
-  height: 40px;
-  background: url("");
+  width: 100px;
+  height: 56px;
+  background: url("https://i.imgur.com/EU9Ak2W.png");
   background-size: 100%;
 }
 :root .layers__1c917::before {
-  z-index: 0;
-  bottom: 75px;
-  right: 0;
-  width: 20px;
-  height: 50px;
-  background: url("") no-repeat;
+  z-index: 2;
+  bottom: 30%;
+  right: 430px;
+  width: 100px;
+  height: 56px;
+  background: url("https://i.imgur.com/EU9Ak2W.png") no-repeat;
   background-size: 100%;
 }
 :root .layers__1c917::after {
   bottom: 15px;
-  right: 100px;
-  width: 25px;
-  height: 25px;
-  background: url("") no-repeat;
+  right: 1px;
+  width: 100px;
+  height: 56px;
+  background: url("https://i.imgur.com/EU9Ak2W.png") no-repeat;
   background-size: 100%;
 }
 :root .bg__12180::after {
   top: 45px;
   right: 385px;
-  width: 30px;
-  height: 30px;
+  width: 100px;
+  height: 56px;
   background: url("") no-repeat;
   background-size: 100%;
 }
@@ -1868,8 +1867,8 @@
   z-index: 2;
   bottom: 30%;
   right: 430px;
-  width: 30px;
-  height: 40px;
+  width: 100px;
+  height: 56px;
   background: url("") no-repeat;
   background-size: 100%;
 }
